@@ -1,12 +1,12 @@
 /*  your css code here. If applicable */
 body{
-	background:#f8f8f8
+	background:#f8f8f8;
 	margin:0;
 }
 .book-library{
 	width:50%;
 	background:#ffffff;
-	box-shadow:2px 2px 2px gray;	
+	box-shadow:5px 20px 20px 1px gray;	
 }
 .btn{
 	height:30px;
@@ -20,8 +20,8 @@ img{
 	margin-left:30%;
 }
 .book{
-	margin:10px;
-	background:lightgray;
+	margin-top:10px;
+	background:#f8f8f8;
 }
 h1{
 	text-align:center;
