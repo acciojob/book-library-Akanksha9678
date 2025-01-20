@@ -1,13 +1,31 @@
 /*  your css code here. If applicable */
 body{
 	background:#f8f8f8
+	margin:0;
 }
 .book-library{
+	width:50%;
 	background:#ffffff;
-	box-shadow:2px 2px 2px gray;
+	box-shadow:2px 2px 2px gray;	
 }
 .btn{
+	height:30px;
 	width:100%;
-	background:limegreen;
+	background:#2ecc71;
 	border:none;
+}
+img{
+	height:300px;
+	width:40%;
+	margin-left:30%;
+}
+.book{
+	margin:10px;
+	background:lightgray;
+}
+h1{
+	text-align:center;
+}
+.a{
+	color:#777777;
 }
