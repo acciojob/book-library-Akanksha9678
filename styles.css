@@ -8,10 +8,14 @@ body{
 	background:#ffffff;
 	box-shadow:5px 20px 20px 1px gray;	
 }
+p{
+	margin:0;
+	padding:0;
+}
 .btn{
 	height:30px;
 	width:100%;
-	background:#2ecc71;
+	background:rgb(46,204,113);
 	border:none;
 }
 img{
@@ -24,9 +28,14 @@ img{
 	background:#f8f8f8;
 }
 h1{
+	margin:0;
+	padding:0;
 	text-align:center;
 	background:#f8f8f8;
 }
 .a{
 	color:#777777;
+}
+h2{
+	color:rgb(119, 119, 119);
 }
