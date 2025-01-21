@@ -17,6 +17,8 @@ p{
 	width:100%;
 	background:rgb(46,204,113);
 	border:none;
+	text-align:center;
+	padding-top:10px;
 }
 img{
 	height:300px;
@@ -24,6 +26,7 @@ img{
 	margin-left:30%;
 }
 .book{
+	display:block;
 	margin-top:10px;
 	background:#f8f8f8;
 }
